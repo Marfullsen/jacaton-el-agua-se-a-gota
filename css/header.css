@@ -1,0 +1,13 @@
+header #topInmobil{
+    width: 100%;
+    background-color: rgba(78, 194, 78, 0.774);
+}
+header #topMovil{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    background-color: wheat;
+}
+header #topMovil #green{
+    text-align: start;
+}
