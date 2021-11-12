@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+footer{
+    height: 200px;
+    display: flex;
+    background: rgb(55,55,55);
+    background: linear-gradient(0deg, rgba(55,55,55,1) 0%, rgba(0,0,0,1) 100%);
+    color:wheat;
+    text-align: center;
+    flex-direction: column;
+    font-size: 20px;
+}
