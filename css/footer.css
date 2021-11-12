@@ -7,8 +7,18 @@ footer{
     display: flex;
     background: rgb(55,55,55);
     background: linear-gradient(0deg, rgba(55,55,55,1) 0%, rgba(0,0,0,1) 100%);
-    color:wheat;
+    color:rgb(142, 199, 68);
     text-align: center;
     flex-direction: column;
     font-size: 20px;
+}
+h3{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p{
+    padding-bottom: 10px;
+}
+div{
+    padding-bottom: 10px;
 }
